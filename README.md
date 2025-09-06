@@ -1,4 +1,4 @@
-![](logo_denfo.png)
+![](logo_denfo_dual.png)<br>
 Device information software developed by Néo Foderé de Frutos under the name FODSOFT™.
 [Itch page](https://fodsoft.itch.io/denfo)
 # Description
