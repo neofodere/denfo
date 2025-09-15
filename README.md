@@ -1,5 +1,5 @@
 ![](logo_denfo_dual.png)<br>
-Device information software developed by Néo Foderé de Frutos under the name FODSOFT™.
+Device information software developed by Néo Foderé de Frutos under the brand FODSOFT™.
 [Itch page](https://fodsoft.itch.io/denfo)
 # Description
 DENFO™ is a software developed by Néo Foderé de Frutos under the brand FODSOFT™ that allows access to your PC’s information in its standard version, and to your mobile device’s data in its DENFO™ AE (Android™ Edition).
