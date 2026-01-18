@@ -1,4 +1,4 @@
-# DENFO™ / DENFO™ AE (Android™ Edition)
+# <img src="images/icono_denfo.png" width="32" height="auto"> DENFO™ / DENFO™ AE (Android™ Edition)
 ![](images/logo_denfo_dual.png)
 
 # 📖 Description
