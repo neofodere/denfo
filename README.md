@@ -1,4 +1,4 @@
-# <img src="https://resources.fodsoft.com/images/png/icono_denfo.png" width="48" height="auto"> DENFO™ / <img src="https://resources.fodsoft.com/images/png/icono_denfo_ae.png" width="48" height="auto"> DENFO™ AE (Android™ Edition)
+# <img src="https://resources.fodsoft.com/images/png/icono_denfo.png" width="32" height="auto"> DENFO™ / <img src="https://resources.fodsoft.com/images/png/icono_denfo_ae.png" width="32" height="auto"> DENFO™ AE (Android™ Edition)
 <img src="https://resources.fodsoft.com/images/png/logo_denfo_dual.png">
 
 # 📖 Description
