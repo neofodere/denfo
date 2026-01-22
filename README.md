@@ -1,5 +1,5 @@
-# <img src="https://resources.fodsoft.com/images/png/icono_denfo.png" width="32" height="auto"> DENFO™ / <img src="https://resources.fodsoft.com/images/png/icono_denfo_ae.png" width="32" height="auto"> DENFO™ AE (Android™ Edition)
-<img src="https://resources.fodsoft.com/images/png/logo_denfo_dual.png">
+# <img src="https://resources.fodsoft.com/images/ext/icono_denfo.png" width="32" height="auto"> DENFO™ / <img src="https://resources.fodsoft.com/images/ext/icono_denfo_ae.png" width="32" height="auto"> DENFO™ AE (Android™ Edition)
+<img src="https://resources.fodsoft.com/images/ext/logo_denfo_dual.png">
 
 # 📖 Description
 DENFO™ is a software developed by Néo Foderé de Frutos under the brand FODSOFT™ that allows access to your PC’s information in its standard version, and to your mobile device’s data in its DENFO™ AE (Android™ Edition).
