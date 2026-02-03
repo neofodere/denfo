@@ -7,5 +7,6 @@ Get useful hardware details like CPU, GPU, SoC, RAM… and software info such as
 
 <hr>
 
-**DENFO™ and all related titles and logos are trademarks of FODSOFT™. Néo Foderé de Frutos. All rights reserved.<br>
-© 2026 FODSOFT™. Néo Foderé de Frutos. All rights reserved.**
+**DENFO™ and all related titles and logos are trademarks of FODSOFT™. Néo Foderé de Frutos. All rights reserved.**
+
+**© 2026 FODSOFT™. Néo Foderé de Frutos. All rights reserved.**
